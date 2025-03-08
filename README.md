@@ -9,5 +9,5 @@
 
 
 # 사용법
-사용법은 여기에서 설명합니다. 깃허브가 익숙치 않아서 죄송합니다. 포스팅 주소 : <a href='https://blog.naver.com/sjejfdlskek' target='_blank'>로이스의 둔감한 심장 TWAIT 사용법</a> 클릭
+사용법은 다음을 참고하세요 포스팅 주소 : <a href='https://blog.naver.com/sjejfdlskek' target='_blank'>로이스의 둔감한 심장 TWAIT 사용법</a> 클릭
 
