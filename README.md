@@ -6,6 +6,7 @@
 
 # 잡설
 TWAIT는 로이스의 첫번째 프로젝트로, 프로그램 지식이 없이도 팩파일에 대한 번역작업을 할 수 있도록 프로그램만 간단하게 실행하면 모드 번역을 할 수 있는 자동화 프로그램입니다.(진행중)
+이 프로그램을 사용하는 이유는 'RPFM'을 사용하기 어렵거나, 혹은 귀찮은 사람이 모드 파일의 모든 내용을 제거하고, 오로지 TEXT 파일만으로 작업을 하고 싶을 때에 사용합니다. 
 
 # 사용법
 1. <a href='https://github.com/Rawit-s/TWAIT/releases/download/v1.0/remove_non_text.7z' title='remove_non_text.7z 다운로드' style='text-align:center'>압축 파일 다운로드</a> 클릭
