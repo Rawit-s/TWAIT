@@ -16,7 +16,7 @@ TWAIT는 로이스의 첫번째 프로젝트로, 프로그램 지식이 없이�
 구체적인 사용법은 다음을 참고하세요 포스팅 주소 : <a href='https://blog.naver.com/sjejfdlskek' target='_blank'>로이스의 둔감한 심장 TWAIT 사용법</a> 클릭 (작성중)
 
 # 필요파일
-아래 크레딧의 RPFM이 필요합니다. 해당파일의 RPFM 폴더 내에서 실행하세요.
+아래 크레딧의 RPFM이 필요합니다. 해당파일을 다운 받은 뒤에 RPFM 폴더 내에서 본 파일을 실행하세요.
 
 
 ## Credits
