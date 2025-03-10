@@ -25,4 +25,4 @@ TWAIT는 로이스의 첫번째 프로젝트로, 프로그램 지식이 없이�
 
 ## Credits
 - This project uses [RPFM](https://github.com/Frodo45127/rpfm), created by [Frodo45127](https://github.com/Frodo45127).
-- RPFM is licensed under the [GNU General Public License v3.0](https://github.com/Frodo45127/rpfm/blob/master/LICENSE).
+- RPFM is licensed under the [MIT License](https://github.com/Frodo45127/rpfm/blob/master/LICENSE).
